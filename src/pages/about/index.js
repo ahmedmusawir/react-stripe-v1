@@ -10,7 +10,7 @@ class About extends React.Component {
       >
         {/* TOP HERO SECTION */}
 
-        <h1 light>About Page</h1>
+        <h1>About Page</h1>
       </Layout>
     );
   }
